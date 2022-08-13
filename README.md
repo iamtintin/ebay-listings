@@ -8,5 +8,8 @@ Track listing by using the link to the listing. App updates status of listing ev
 
 ## Screenshots
 
-![Screenshot](\screenshots\empty.png)
-![Usage Example](\screenshots\usage.png)
+### Blank App
+![Screenshot](/Screenshots/empty.png)
+
+### Usage Example
+![Usage Example](/Screenshots/usage.png)
